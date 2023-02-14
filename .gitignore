@@ -81,6 +81,11 @@ typings/
 # Nuxt.js build / generate output
 .nuxt
 dist
+<<<<<<< HEAD
+=======
+.nitro
+.output
+>>>>>>> 8a949e8 (First commit)
 
 # Gatsby files
 .cache/
@@ -101,4 +106,8 @@ dist
 .dynamodb/
 
 # TernJS port file
+<<<<<<< HEAD
 .tern-port
+=======
+.tern-port
+>>>>>>> 8a949e8 (First commit)
